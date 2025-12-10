@@ -1,0 +1,19 @@
+{
+  "name": "Casino St. Moritz",
+  "short_name": "Casino St. Moritz",
+  "theme_color": "",
+  "background_color": "#1A2C44",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765366353-cropped-fav-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
